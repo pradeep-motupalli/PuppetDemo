@@ -1,0 +1,1 @@
+puppet apply .\manifests\site.pp --modulepath=.\modules;C:\ProgramData\PuppetLabs\code\modules --hiera_config=.\hiera.yaml
