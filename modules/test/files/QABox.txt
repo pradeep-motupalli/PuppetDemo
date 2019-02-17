@@ -8,3 +8,5 @@ RMPExtensionspcsample
 RMPExtensionsSmokeTest
 RMPExtensionsSMS
 RMPExtensionsRevenueRecognition
+RMPExtensionsRevenue
+RMPExtensionsRevenueRecognitionApplication
