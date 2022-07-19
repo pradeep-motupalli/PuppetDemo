@@ -6,5 +6,5 @@
    - "metraview-api-17.0.0.jar"
    - "metraview-ui-17.0.0.jar"
    - ProductViewSync-17.0.0.jar
-   - test
+   - "test"
  version: "7"
